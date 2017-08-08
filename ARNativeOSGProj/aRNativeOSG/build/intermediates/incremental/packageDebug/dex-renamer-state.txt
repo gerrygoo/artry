@@ -1,0 +1,4 @@
+#Mon Aug 07 16:34:01 CDT 2017
+base.0=/Users/gerry/artk/0_forreal/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARNativeOSGProj/aRNativeOSG/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/gerry/artk/0_forreal/ARToolKit5-bin-5.3.2-Android/AndroidStudioProjects/ARNativeOSGProj/aRNativeOSG/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
