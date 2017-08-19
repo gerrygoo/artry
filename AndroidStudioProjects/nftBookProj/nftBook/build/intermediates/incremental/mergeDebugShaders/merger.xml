@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/src/debug/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/src/debug/shaders"/></dataSet></merger>

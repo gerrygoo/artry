@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/gerry/.android/build-cache/991475bdc1a82c2b2cbd4710a214f498ba8549f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44b025e216f91da596373dc8e6ade4a694e550b8">
+        <dex dex="/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/pre-dexed/debug/classes_760bb7b99741eb523b0e2b5c4169e68e0a448a13.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/gerry/.android/build-cache/c31aa0e2d9582b4a3f2b48030ca5c7ff28995820/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"

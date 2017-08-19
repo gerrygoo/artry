@@ -4,6 +4,10 @@
         "source": "/Users/gerry/artk/android_artoolkit5/AndroidStudioProjects/nftBookProj/nftBook/src/main/res/drawable-ldpi/icon.png"
     },
     {
+        "merged": "/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
+        "source": "/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
         "merged": "/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/res/merged/debug/drawable-ldpi/icon.png",
         "source": "/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/src/main/res/drawable-ldpi/icon.png"
     }

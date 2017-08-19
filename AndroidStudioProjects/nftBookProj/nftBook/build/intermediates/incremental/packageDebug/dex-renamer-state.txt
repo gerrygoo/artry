@@ -1,4 +1,4 @@
-#Thu Aug 10 20:50:57 CDT 2017
-base.0=/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Wed Aug 16 10:43:44 CDT 2017
+base.0=/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/gerry/artk/artry/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/gerry/artk/artry copy/AndroidStudioProjects/nftBookProj/nftBook/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
